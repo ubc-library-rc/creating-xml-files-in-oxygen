@@ -1,5 +1,5 @@
 ---
 layout: default
-title: oXygen
+title: 'oXygen'
 nav_order: 10
 ---
