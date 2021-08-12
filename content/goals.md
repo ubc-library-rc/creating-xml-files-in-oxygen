@@ -1,3 +1,11 @@
+---
+layout: default
+title: Title of page
+nav_order: 2
+---
+
+
+
 After this course, you will be able to
 
 * *1*{: .circle .circle-blue} `Understand the purpose and variety of applications for text encoding`
