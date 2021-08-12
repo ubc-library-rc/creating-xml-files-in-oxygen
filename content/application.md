@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Title of page
+title: Application
 nav_order: 7
 ---
 
