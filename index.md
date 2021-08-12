@@ -20,10 +20,17 @@ At the end of this workshop, you will be able to:
 
 | 0:00 | Welcome and using Zoom|
 | 0:05 | Introduction |  
-| 0:15 |   |
-| 0:30 |  |   
-| 0:45 |  |
-| 1:00 | Wrap-up and Discussion |
+| 0:15 |  Application of xml in the humanities |
+| 0:35 |  Tagging a text|   
+| 0:45 |  Formalization|
+| 0:55 | Mark-up |
+| 1:05 | Anatomy of tags |
+| 1:15 | Walk-through oXygen |
+| 1:35 | Creating an xml file in oXygen |
+| 1:45 | Wrap up and questions |
+
+
+
 
 ## Resources
 * [eg. link to external slides]
