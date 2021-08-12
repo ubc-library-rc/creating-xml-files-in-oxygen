@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Title of page
+title: Text markup
 nav_order: 8
 ---
