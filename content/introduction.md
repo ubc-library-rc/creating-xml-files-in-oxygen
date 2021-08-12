@@ -16,5 +16,12 @@ Input
 $ I will be biking past <placeName> the Welcome Figure underneath Burrard Bridge </placeName> on the Sea Wall today.
 
 ```
+In a simplified way, we have the possiblity to extract the tagged knowledge with the corresponding html shell, and can find all place names we would have marked up throughout a bigger text. 
 
+Output
+{: .label .label-yellow }
+```sh
+Place Names:
+the Welcome Figure underneath Burrard Bridge
+```
 
