@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Title of page
-nav_order: 2
+title: Goals
+nav_order: 3
 ---
 
 
