@@ -33,4 +33,6 @@ At the end of this workshop, you will be able to:
 
 
 ## Resources
-* [eg. link to external slides]
+* Online Access to oXygen via the remote lab (UBC CWL needed) https://remotelabs.ubc.ca/#heading_1021 
+* Short overview over TEI elements for your xml file https://www.wwp.northeastern.edu/outreach/seminars/miami/handouts/elementList.xhtml
+* Overview overview for TEI and xml fundamentals https://www.wwp.northeastern.edu/research/publications/guide/index.html 
