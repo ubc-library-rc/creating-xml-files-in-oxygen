@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-nav_order: 4
+nav_order: 3
 ---
 # Introduction
 Take a moment and think of a landmark which represents the ongoing presence of the xwməθkwəy̓əm (Musqueam), Skwxwú7mesh (Squamish), Stó:lō and Səl̓ílwətaʔ/Selilwitulh (Tsleil- Waututh) Nations. 
