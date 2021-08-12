@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Title of page
-nav_order: 4
+title: Equipment
+nav_order: 5
 ---
 
 You can access oXygen via the remote labs @ Digital Scholarship Labs 
