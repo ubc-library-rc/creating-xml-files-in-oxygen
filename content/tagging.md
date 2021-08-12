@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Text markup
+title: 'Tagging'
 nav_order: 8
 ---
