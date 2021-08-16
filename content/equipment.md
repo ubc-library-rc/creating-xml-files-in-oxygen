@@ -3,6 +3,7 @@ layout: default
 title: Equipment
 nav_order: 6
 ---
+# Equipment
 
 You can access oXygen via the remote labs @ Digital Scholarship Labs 
 17 computers can be accessed remotely here: 
