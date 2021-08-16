@@ -3,8 +3,10 @@ layout: default
 title: 'oXygen'
 nav_order: 10
 ---
+# oXygen
 
-**oXygen**
+
+## **xml Editors**
 There are many xml editors out there, but oXygen is one of the standard ones. Think of it as the "word processor" of xml files. 
 
 You can access it via the remote labs at UBC 
@@ -13,11 +15,11 @@ https://remotelabs.ubc.ca/#heading_1021
 Helps identify flaws 
 Has readymade TEI documents lined up
 
-**Create your first XML file in Oxygen**
+## **Create your first XML file in Oxygen**
 Open Oxygen and open “New Document”
 
 
-**Drop this faulty code into the editor**
+## **Drop this faulty code into the editor**
 Input
 {: .label .label-green }
 ```sh
@@ -40,7 +42,7 @@ Input
 </TEI>
 ```
   
-**Header**
+## **Header**
 Input
 {: .label .label-green }
 ```sh
@@ -57,15 +59,14 @@ Input
             </sourceDesc>
         </fileDesc>
 ```
-**Time to encode this sample in oXygen**
+### **Time to encode this sample in oXygen**
 https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/
 
   Placeholder>IMAGE
- 
- **Task #5**
+### **Task #5**
   What tags do we identify, and what would the tags look like? 
   
-**Solution Task #5**
+### **Solution Task #5**
 * *1*{: .circle .circle-blue} `Title: The Salt Lake Herald` 
 * *2*{: .circle .circle-red} `Date: Thursday, April 4 1895`
 * *3*{: .circle .circle-yellow} `Num page=Page 2`
@@ -74,7 +75,7 @@ https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/
 * *6*{: .circle .circle-blue} `Body of Text`
 * *7*{: .circle .circle-blue} `Paragraphs`
 
-**What would this look like in the element structure?**
+## **What would this look like in the element structure?**
 Input
 {: .label .label-green }
 ```sh
@@ -88,7 +89,7 @@ Input
 ```
 
 
-**All that is missing is our root element and header**
+## **All that is missing is our root element and header**
 Input
 {: .label .label-green }
 ```sh
@@ -114,7 +115,7 @@ Input
     <text>
         <body>
    ```
-**...and let's not forget the closing tags at the end of the document**
+## **...and let's not forget the closing tags at the end of the document**
 
 Input
 {: .label .label-green }
@@ -125,7 +126,7 @@ Input
     </TEI>
 
 ```
-**Additional Solution Task #5**
+### **Additional Solution Task #5**
   
   Help: fill in the information into the gaps! 
   https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/Helper%20Oscar.xml
