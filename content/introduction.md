@@ -25,4 +25,3 @@ Place Names:
 the Welcome Figure underneath Burrard Bridge
 ```
 
-![Welcome Figure](https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/content/images/welcome%20figure.png)
