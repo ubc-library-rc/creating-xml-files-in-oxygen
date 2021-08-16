@@ -66,14 +66,65 @@ https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/
   What tags do we identify, and what would the tags look like? 
   
 **Solution Task #5**
-Title The Salt Lake Herald 
-Date Thursday, April 4 1895
-Num page=Page 2
-Title Oscar Wilde’s Libel Suit
-Subtitle One of the most peculiar cases ever heard 
-Body of Text
-Paragraphs
+* *1*{: .circle .circle-blue} `Title: The Salt Lake Herald` 
+* *2*{: .circle .circle-red} `Date: Thursday, April 4 1895`
+* *3*{: .circle .circle-yellow} `Num page=Page 2`
+* *4*{: .circle .circle-green} `Title: Oscar Wilde’s Libel Suit`
+* *5*{: .circle .circle-purple} `Subtitle: One of the most peculiar cases ever heard` 
+* *6*{: .circle .circle-blue} `Body of Text`
+* *7*{: .circle .circle-blue} `Paragraphs`
 
+**What would this look like in the element structure?**
+Input
+{: .label .label-green }
+```sh
+                <head>The Salt Lake Herald</head>
+                <placeName>Salt Lake City</placeName>, 
+                <date> Thursday, April 04, 1895</date>
+                <head>Oscar Wilde’s Libel Suit <lb/>
+                    One of the most peculiar cases ever heard <lb/>
+                    Love letters to a boy </head>
+
+```
+
+
+**All that is missing is our root element and header**
+Input
+{: .label .label-green }
+```sh
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oscar Wilde’s Libel Suit</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>1895</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p> https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/</p>
+            </sourceDesc>
+        </fileDesc>
+      
+    </teiHeader>
+    
+    
+    <text>
+        <body>
+   ```
+**...and let's not forget the closing tags at the end of the document**
+
+Input
+{: .label .label-green }
+```sh
+       
+        </body>
+    </text>
+    </TEI>
+
+```
 **Additional Solution Task #5**
   
   Help: fill in the information into the gaps! 
@@ -82,7 +133,7 @@ Paragraphs
   Complete solution:
   https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/OSCAR.xml 
   
-Congratulation!  You successfully created your first xml file! 
+Congratulations!  You successfully created your first xml file! 
 There are so many more things to explore about xml and text tncoding. Get inspired in the "Resources" Section!
 
 
