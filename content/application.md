@@ -3,7 +3,7 @@ layout: default
 title: 'Application'
 nav_order: 7
 ---
-
+#Application
 
 Let's first understand what scope and presets a project has before we dive into how to create xml files. 
 
@@ -64,10 +64,12 @@ Let’s look at the xml files in one of the respective projects!
 http://v-machine.org/samples/orchardFarming.xml
 
 Display of xml
-Placeholder>IMAGE
+
+![Machine](https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/content/images/Versioning%20machine%20Orchard.png)
 
 Xml file
-Placeholder>IMAGE
+![xml file](https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/content/images/xml%20Orchard.png)
+
 
 **xml vs html**
 xml is a language which stores texts and categorizes the information, it does not “do” anything on its own. 
@@ -84,9 +86,8 @@ A processing application, written in html or javascript is necessary in order to
 Two parts are necessary to convert text:
 
 We need 1)encoded xml files and we need 2) a processing application which reads and displays the xml files in a certain way. 
-One example is “The versioning Machine 5.0”
+One example is “The Versioning Machine 5.0”
 
-Placeholder>IMAGE
 http://v-machine.org/
 
 
