@@ -3,7 +3,6 @@ layout: default
 title: 'Application'
 nav_order: 7
 ---
-#Application
 
 Let's first understand what scope and presets a project has before we dive into how to create xml files. 
 
