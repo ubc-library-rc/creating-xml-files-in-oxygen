@@ -18,6 +18,10 @@ Open Oxygen and open “New Document”
 
 
 **Drop this faulty code into the editor**
+Input
+{: .label .label-green }
+```sh
+
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
@@ -34,9 +38,13 @@ Open Oxygen and open “New Document”
         </body>
     </text>
 </TEI>
-
+```
   
 **Header**
+Input
+{: .label .label-green }
+```sh
+
 <fileDesc>
             <titleStmt>
                 <title>Bike Ride</title>
@@ -48,8 +56,8 @@ Open Oxygen and open “New Document”
                 <p>D.Leesing</p>
             </sourceDesc>
         </fileDesc>
-
-**Let’s encode this sample in oXygen**
+```
+**Time to encode this sample in oXygen**
 https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/
 
   Placeholder>IMAGE
@@ -57,7 +65,7 @@ https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/
  **Task #5**
   What tags do we identify, and what would the tags look like? 
   
-**Solution**
+**Solution Task #5**
 Title The Salt Lake Herald 
 Date Thursday, April 4 1895
 Num page=Page 2
@@ -66,7 +74,7 @@ Subtitle One of the most peculiar cases ever heard
 Body of Text
 Paragraphs
 
-**Solution**
+**Additional Solution Task #5**
   
   Help: fill in the information into the gaps! 
   https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/Helper%20Oscar.xml
@@ -75,7 +83,7 @@ Paragraphs
   https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/OSCAR.xml 
   
 Congratulation!  You successfully created your first xml file! 
-There are so many more things to explore about xml and Text Encoding. Find links in the "Resources" Section!
+There are so many more things to explore about xml and text tncoding. Get inspired in the "Resources" Section!
 
 
 
