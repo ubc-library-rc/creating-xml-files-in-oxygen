@@ -3,21 +3,23 @@ layout: default
 title: 'xml anatomy'
 nav_order: 9
 ---
+# Anatomy
 
 Let's look at the details of what happens in a xml file. 
 **Possible tags in a text document**
 
 It all relies on identifiers: whether it is a line, a place or an author: we want to annotate (encode!) what information can be of interest in the respective file. 
 
-
-**An xml document needs a neat form: Formalization**
+Formalization
+## **An xml document needs a neat form: Formalization**
 Think of the Russian Matryoshka dolls: they need a top and a bottom part in order to function. That's how we make sure information is contained in the right place under the right tag. 
 
-**XML Anatomy**
+
+## **XML Anatomy**
 This image will make more sense in 5 minutes. Look at the opening and closing tag! Just like the Matryoshka doll, they open and close the information we encoded.
 Placeholder>IMAGE
 
-**Formalization: Box it!**
+## **Formalization: Box it!**
 In the image, the  pink line delineates the document with the opening tag <div> and closing tag </div>
 The value type=”act” specifies the genre! 
 This is what we call the commandline or element.
@@ -26,11 +28,11 @@ This is what we call the commandline or element.
 
 Placeholder>IMAGE
 
-**Task #2**
+### **Task #2**
 What other opening and closing tags can you identify comparing the scan of the manuscrupt and the xml code? Focus on the circled information -- we'll get to those other tags in a bit! 
 
 
-**Solutions**
+### **Solutions**
 Input
 {: .label .label-green }
 ```sh
@@ -45,12 +47,12 @@ Input
 
 
 
-**Task #3**
+### **Task #3**
 What tags would you want to single out in this newspaper clipping?
 Placeholder>IMAGE
 
 
-**Solutions**
+### **Solutions**
 Input
 {: .label .label-green }
 ```sh
@@ -61,7 +63,7 @@ Input
 
 etc. 
 ```
-**Attributes**
+## **Attributes**
 Input
 {: .label .label-green }
 ```sh
@@ -76,7 +78,7 @@ Input
 ```
 The attribute name specifies the tag. Its matching value and type follows the = sign and is marked by “”
 
-**Divisions**
+## **Divisions**
 Input
 {: .label .label-green }
 ```sh
@@ -93,7 +95,7 @@ Small pieces
 <l>
 ```
  
-**A well-formed xml file**
+## **A well-formed xml file**
 It specifies which source and thereby data set it orients with one root element 
  Input
 {: .label .label-green }
@@ -127,10 +129,10 @@ Comparable quoting and signatures " … "
 It is always symmetric <> </>
   
 
-**A valid xml file**
+## **A valid xml file**
 Plays by the rule book (depending which markup rule book is used (e.g. TEI, xhtml (turning it into a webpage))
 
-**Task #4**
+### **Task #4**
 Find the lemons! (validity)
 
 Placeholder> IMAGE1
