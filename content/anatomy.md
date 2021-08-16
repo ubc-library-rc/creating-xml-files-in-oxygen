@@ -31,27 +31,41 @@ What other opening and closing tags can you identify comparing the scan of the m
 
 
 **Solutions**
+Input
+{: .label .label-green }
+```sh
 <head> </head>
   <stage> </stage>
     <speaker> </speaker>
       <div> </div>
-        <p> </p>
+      <p> </p>
+
+```
 
 
-** Task #3**
+
+
+**Task #3**
 What tags would you want to single out in this newspaper clipping?
 Placeholder>IMAGE
 
 
 **Solutions**
+Input
+{: .label .label-green }
+```sh
 <name>UNIVERSITY OF VIRGINIA, CHARLOTTESVILLE</name> 
 <num>NUMBER 92</num>
 <head>THE CAVALIER DAILY</head>
 <date>TUESDAY, MARCH 11, 1969</date>
 
 etc. 
-
+```
 **Attributes**
+Input
+{: .label .label-green }
+```sh
+
 <div1 type="nameplate">
 
 <head>THE CAVALIER DAILY</head>
@@ -59,10 +73,14 @@ etc.
 <date value="1969-03-11">TUESDAY, MARCH 11, 1969</date> 
 <num type="number" value="92">NUMBER 92</num></ab>
 </div1>
-
+```
 The attribute name specifies the tag. Its matching value and type follows the = sign and is marked by “”
 
 **Divisions**
+Input
+{: .label .label-green }
+```sh
+
 Big chunks
 <div> big divisions
 <head> 
@@ -73,7 +91,7 @@ Small pieces
 <title> 
 <head>
 <l>
-
+```
  
 **A well-formed xml file**
 It specifies which source and thereby data set it orients with one root element 
