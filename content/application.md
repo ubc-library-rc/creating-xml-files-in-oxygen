@@ -36,7 +36,7 @@ C) Map of London
 https://mapoflondon.uvic.ca/
 
 
-**Solutions**
+**Solutions Task #1**
 A)
 Wilde Trials International News Archive 
 https://dhil.lib.sfu.ca/wilde/index.html
