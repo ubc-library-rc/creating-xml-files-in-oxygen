@@ -66,10 +66,10 @@ http://v-machine.org/samples/orchardFarming.xml
 
 Display of xml
 
-![Machine](http://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/content/images/Versioning%20machine%20Orchard.png)
+![Machine](http://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/content/images/Versioning%20machine%20Orchard.png "Machine")
 
 Xml file
-![xml file](http://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/content/images/xml%20Orchard.png)
+![xml file](http://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/content/images/xml%20Orchard.png "xml file")
 
 
 ## **xml vs html**
