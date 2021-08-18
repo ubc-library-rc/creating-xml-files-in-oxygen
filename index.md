@@ -4,7 +4,7 @@ title: Outline
 nav_order: 1
 ---
 
-## Note: this workshop is in development and not yet complete.
+## Creating xml files from newspapers in oXygen
 
 Are you curious about computational methods in the humanities? Do you work with a variety of comparable texts and want to automate a search function, or categorize elements in a collection of texts? Do you just want a very approachable first insight into the digital scholarship in the humanities? Then this workshop will be a great starting point for a first contact with computational methods ! After this workshop, you will be able to identify the scope of projects which are applicable to text encoding, and you will be able to apply and produce a basic xml file for a newspaper, drama, poem or prose! 
 
@@ -33,6 +33,6 @@ At the end of this workshop, you will be able to:
 
 
 ## Resources
-* Online Access to oXygen via the remote lab (UBC CWL needed) https://remotelabs.ubc.ca/#heading_1021 
-* Short overview over TEI elements for your xml file https://www.wwp.northeastern.edu/outreach/seminars/miami/handouts/elementList.xhtml
-* Overview overview for TEI and xml fundamentals https://www.wwp.northeastern.edu/research/publications/guide/index.html 
+* Online Access to oXygen via the remote lab (UBC CWL needed) [Remote Lab](https://remotelabs.ubc.ca/#heading_1021 )
+* Short overview over TEI elements for your xml file [TEI List](https://www.wwp.northeastern.edu/outreach/seminars/miami/handouts/elementList.xhtml)
+* Overview  for TEI and xml fundamentals [Overview](https://www.wwp.northeastern.edu/research/publications/guide/index.html )
