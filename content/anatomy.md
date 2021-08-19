@@ -10,7 +10,7 @@ Let's look at the details of what happens in a xml file.
 
 It all relies on identifiers: whether it is a line, a place or an author: we want to annotate (encode!) what information can be of interest in the respective file. 
 
-Formalization
+# Formalization
 ## **An xml document needs a neat form: Formalization**
 Think of the Russian Matryoshka dolls: they need a top and a bottom part in order to function. That's how we make sure information is contained in the right place under the right tag. 
 
@@ -135,9 +135,9 @@ Plays by the rule book (depending which markup rule book is used (e.g. TEI, xhtm
 ### **Task #4**
 Find the lemons! (validity)
 
-Placeholder> IMAGE1
-Placeholder> IMAGE2
-Placeholder> IMAGE3
+!Picture 1 (content/images/lemonmelon1.png"Picture 1")
+!Picture 2 (content/images/lemonmelon2.png"Picture 2")
+!Picture 2 (content/images/lemonmelon3.png"Picture 3")
 
 
 
