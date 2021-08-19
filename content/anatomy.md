@@ -17,7 +17,7 @@ Think of the Russian Matryoshka dolls: they need a top and a bottom part in orde
 
 ## **XML Anatomy**
 This image will make more sense in 5 minutes. Look at the opening and closing tag! Just like the Matryoshka doll, they open and close the information we encoded.
-Placeholder>IMAGE
+![xml anatomy](content/images/xml%20anatomy.png)
 
 ## **Formalization: Box it!**
 In the image, the  pink line delineates the document with the opening tag <div> and closing tag </div>
@@ -49,8 +49,7 @@ Input
 
 ### **Task #3**
 What tags would you want to single out in this newspaper clipping?
-Placeholder>IMAGE
-
+![CavalierDaily](content/images/cavalier%20daily1.png)
 
 ### **Solutions**
 Input
@@ -135,9 +134,9 @@ Plays by the rule book (depending which markup rule book is used (e.g. TEI, xhtm
 ### **Task #4**
 Find the lemons! (validity)
 
-![Picture 1] (content/images/lemonmelon1.png"Picture 1")
-![Picture 2] (content/images/lemonmelon2.png"Picture 2")
-![Picture 3] (content/images/lemonmelon3.png"Picture 3")
+![Picture 1](content/images/lemonmelon1.png"Picture 1")
+![Picture 2](content/images/lemonmelon2.png"Picture 2")
+![Picture 3](content/images/lemonmelon3.png"Picture 3")
 
 
 
