@@ -13,8 +13,9 @@ You can access it via the remote labs at UBC
 [https://remotelabs.ubc.ca/#heading_1021]
 (https://remotelabs.ubc.ca/#heading_1021) 
 
-Helps identify flaws 
-Has readymade TEI documents lined up
+### **Advantage**
+- Helps identify flaws 
+- Has readymade TEI documents lined up
 
 ## **Create your first XML file in Oxygen**
 Open Oxygen and open “New Document”
@@ -63,7 +64,6 @@ Input
 ### **Time to encode this sample in oXygen**
 [https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/](https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/)
 
-  Placeholder>IMAGE
 ### **Task #5**
   What tags do we identify, and what would the tags look like? 
   
