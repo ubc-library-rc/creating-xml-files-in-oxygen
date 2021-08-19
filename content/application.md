@@ -59,7 +59,7 @@ https://mapoflondon.uvic.ca/
 - Source: “Civitas Londinum is a bird’s-eye view of London first printed from woodblocks in about 1561” 
 - Function: Identify landmarks, find ressources for the landmark, (contribute to the map)
 
-## **Where’s the xml in these projects?!**
+## **Where’s the xml in these projects?**
 
 Let’s look at the xml files in one of the respective projects! 
 [Orchard xml](http://v-machine.org/samples/orchardFarming.xml)
