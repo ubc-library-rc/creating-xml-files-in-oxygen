@@ -10,8 +10,7 @@ nav_order: 10
 There are many xml editors out there, but oXygen is one of the standard ones. Think of it as the "word processor" of xml files. 
 
 You can access it via the remote labs at UBC 
-[https://remotelabs.ubc.ca/#heading_1021]
-(https://remotelabs.ubc.ca/#heading_1021) 
+[https://remotelabs.ubc.ca/#heading_1021](https://remotelabs.ubc.ca/#heading_1021) 
 
 ### **Advantage**
 - Helps identify flaws 
@@ -62,7 +61,7 @@ Input
         </fileDesc>
 ```
 ### **Time to encode this sample in oXygen**
-[https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/](https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/)
+[https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/(https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/)
 
 ### **Task #5**
   What tags do we identify, and what would the tags look like? 
@@ -130,11 +129,10 @@ Input
 ### **Additional Solution Task #5**
   
   Help: fill in the information into the gaps! 
-  [  https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/Helper%20Oscar.xml]
-  (https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/Helper%20Oscar.xml)
+  [https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/Helper%20Oscar.xml](https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/Helper%20Oscar.xml)
   
   Complete solution:
-  [  https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/OSCAR.xml ](https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/OSCAR.xml)
+  [https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/OSCAR.xml](https://github.com/ubc-library-rc/creating-xml-files-in-oxygen/blob/main/OSCAR.xml)
   
 Congratulations!  You successfully created your first xml file! 
 There are so many more things to explore about xml and text encoding. Get inspired in the "Resources" Section!
