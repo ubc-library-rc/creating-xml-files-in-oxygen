@@ -6,32 +6,33 @@ nav_order: 7
 # Application
 
 
-Let's first understand what scope and presets a project has before we dive into how to create xml files. 
+Let's first understand what scope and presets a project has before we dive into how to create xml files.
 
-Here, we want to understand 
+Here, we want to understand
 
-* *1*{: .circle .circle-blue} `Sources`
-* *2*{: .circle .circle-red} `Function`
+*1*{: .circle .circle-blue} `Sources`
+
+*2*{: .circle .circle-red} `Function`
 
 This example uses poems written by the excentric German-American writer Baroness Elsa von Freytag-Loringhoven. What a woman, check her out after this course!
 [https://digital.lib.umd.edu/transition/index.html](https://digital.lib.umd.edu/transition/index.html)
 
-As a source, the project created by Tanya Clement in 2008 takes the .tiff scans of the original, handwritten poem and compares it to a reworked second version of the poem. 
+As a source, the project created by Tanya Clement in 2008 takes the .tiff scans of the original, handwritten poem and compares it to a reworked second version of the poem.
 
-As a function, the encoded transcriptions make it possible to compare e.g. line changes. 
+As a function, the encoded transcriptions make it possible to compare e.g. line changes.
 
 ### **Task #1**
 
 Assess the following examples and think about:
 
 1) What are the sources/texts used in the project?
-2) What is the main function in the project? 
+2) What is the main function in the project?
 
 Please choose any of these three text encoding projects!
 
 A) Wilde Trials International News Archive [https://dhil.lib.sfu.ca/wilde/index.html](https://dhil.lib.sfu.ca/wilde/index.html)
 
-B) The Colonial Despatches 
+B) The Colonial Despatches
 [https://bcgenesis.uvic.ca/index.html](https://bcgenesis.uvic.ca/index.html)
 
 C) Map of London
@@ -40,7 +41,7 @@ C) Map of London
 
 ### **Solutions Task #1**
 A)
-Wilde Trials International News Archive 
+Wilde Trials International News Archive
 [https://mapoflondon.uvic.ca/](https://dhil.lib.sfu.ca/wilde/index.html)
 
 - Source: Newspaper transcriptions in various languages of the Wilde trials
@@ -53,27 +54,27 @@ Application / Colonial Despatches
 transcriptions
 - Function: “Direct comparison between scanned image and transcription”
 
-C) 
+C)
 Application / Map of London
 [https://bcgenesis.uvic.ca/index.html](https://mapoflondon.uvic.ca/)
-- Source: “Civitas Londinum is a bird’s-eye view of London first printed from woodblocks in about 1561” 
+- Source: “Civitas Londinum is a bird’s-eye view of London first printed from woodblocks in about 1561”
 - Function: Identify landmarks, find ressources for the landmark, (contribute to the map)
 
 ## **Where’s the xml in these projects?**
 
-Let’s look at the xml files in one of the respective projects! 
+Let’s look at the xml files in one of the respective projects!
 [Orchard xml](http://v-machine.org/samples/orchardFarming.xml)
 
 Display of xml
 
-![Machine](content/images/machine%20Orchard.png"Machine")
+![Machine](images/machine-Orchard.png "Machine")
 
 Xml file
-![xml file](content/images/xml%20Orchard.png"xml file")
+![xml file](images/xml-Orchard.png "xml file")
 
 
 ## **xml vs html**
-xml is a language which stores texts and categorizes the information, it does not “do” anything on its own. 
+xml is a language which stores texts and categorizes the information, it does not “do” anything on its own.
 It is an eXtensible Markup Language (XML) - that means that it is your choice what to tag - and you can define it!
 
 
@@ -86,11 +87,8 @@ A processing application, written in html or javascript is necessary in order to
 
 Two parts are necessary to convert text:
 
-We need 1)encoded xml files and we need 2) a processing application which reads and displays the xml files in a certain way. 
+We need 1)encoded xml files and we need 2) a processing application which reads and displays the xml files in a certain way.
+
 One example is “The Versioning Machine 5.0”
 
 [http://v-machine.org/](http://v-machine.org/)
-
-
-
-
