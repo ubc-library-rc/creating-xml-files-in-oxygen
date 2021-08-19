@@ -43,21 +43,21 @@ A)
 Wilde Trials International News Archive 
 https://dhil.lib.sfu.ca/wilde/index.html
 
-* Source: Newspaper transcriptions in various languages of the Wilde trials
-* Function: Compare similarities in either language, search transcriptions
+- Source: Newspaper transcriptions in various languages of the Wilde trials
+- Function: Compare similarities in either language, search transcriptions
 
 B)
 Application / Colonial Despatches
 https://bcgenesis.uvic.ca/index.html
-* Source: “original correspondence between the British Colonial Office and the colonies of Vancouver Island and British Columbia. images have been generated from monochrome microfilms”
+- Source: “original correspondence between the British Colonial Office and the colonies of Vancouver Island and British Columbia. images have been generated from monochrome microfilms”
 transcriptions
-* Function: “Direct comparison between scanned image and transcription”
+- Function: “Direct comparison between scanned image and transcription”
 
 C) 
 Application / Map of London
 https://mapoflondon.uvic.ca/
-* Source: “Civitas Londinum is a bird’s-eye view of London first printed from woodblocks in about 1561” 
-* Function: Identify landmarks, find ressources for the landmark, (contribute to the map)
+- Source: “Civitas Londinum is a bird’s-eye view of London first printed from woodblocks in about 1561” 
+- Function: Identify landmarks, find ressources for the landmark, (contribute to the map)
 
 ## **Where’s the xml in these projects?!**
 
