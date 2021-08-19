@@ -26,7 +26,7 @@ This is what we call the commandline or element.
 <div type=”act”>
 </div>
 
-Placeholder>IMAGE
+![xml anatomy](content/images/Formalization%20Stanza.png)
 
 ### **Task #2**
 What other opening and closing tags can you identify comparing the scan of the manuscrupt and the xml code? Focus on the circled information -- we'll get to those other tags in a bit! 
