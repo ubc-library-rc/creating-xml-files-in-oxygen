@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+       omitted
+    </teiHeader>
+    <text>
+        <body>
+            <div type="essay">
+                <head First Nations places in Vancouver </head>
+                <p> Yesterday, on <date> value= "August 3"</date> I came across a landmark which reminded me of the presence of the first nations. </p>
+                <p> I rode along the sea wall and came across the <placeName>Welcome Figure </placeName>.
+                 </p>
+            
+        </body>
+    </text>
+</TEI>
+
