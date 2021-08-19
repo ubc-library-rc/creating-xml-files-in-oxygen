@@ -1,0 +1,45 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fill newspaper name  information here</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fill publication information here</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p> Fill webpage here </p>
+            </sourceDesc>
+        </fileDesc>
+        
+    </teiHeader>
+    
+    
+    <text>
+        <body>
+            <div>
+                
+                <head>Fill in TITLE of newspaper </head>
+                <placeName>Fill in PLACE of Issue</placeName>, 
+                <date> Fill in DATE
+                </date> 
+            </div>
+            
+            
+            <div type="article">
+                <head> Fill in Headline  <lb/>
+                    Fill in Subheading <lb/>
+                    Fill in subheading  </head>
+                <p> Fill in subheading  <lb/>
+                    <lb/>
+                    <!-- content continues... --> (you don't need to type this out)
+                </p>
+            </div>
+            
+            
+        </body>
+    </text>
+</TEI>
