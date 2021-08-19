@@ -6,7 +6,7 @@ nav_order: 7
 # Application
 
 
-Let's first understand what scope and presets a project has before we dive into how to create xml files.
+Let's first understand what scope and presets a project has before we dive into how to create XML files.
 
 Here, we want to understand
 
@@ -60,34 +60,34 @@ Application / Map of London
 - Source: “Civitas Londinum is a bird’s-eye view of London first printed from woodblocks in about 1561”
 - Function: Identify landmarks, find ressources for the landmark, (contribute to the map)
 
-## **Where’s the xml in these projects?**
+## **Where’s the XML in these projects?**
 
-Let’s look at the xml files in one of the respective projects!
-[Orchard xml](http://v-machine.org/samples/orchardFarming.xml)
+Let’s look at the XML files in one of the respective projects!
+[Orchard XML](http://v-machine.org/samples/orchardFarming.XML)
 
-Display of xml
+Display of XML
 
 ![Machine](images/machine-Orchard.png "Machine")
 
-Xml file
-![xml file](images/xml-Orchard.png "xml file")
+XML file
+![XML file](images/XML-Orchard.png "XML file")
 
 
-## **xml vs html**
-xml is a language which stores texts and categorizes the information, it does not “do” anything on its own.
+## **XML vs html**
+XML is a language which stores texts and categorizes the information, it does not “do” anything on its own.
 It is an eXtensible Markup Language (XML) - that means that it is your choice what to tag - and you can define it!
 
 
 html is a programming language which can be used in order to display information (e.g. how a website is structured, what it looks like, etc.)
 
 
-A processing application, written in html or javascript is necessary in order to display our xml documents.
+A processing application, written in html or javascript is necessary in order to display our XML documents.
 
 ## **Processing application: Versioning Machine**
 
 Two parts are necessary to convert text:
 
-We need 1)encoded xml files and we need 2) a processing application which reads and displays the xml files in a certain way.
+We need 1)encoded XML files and we need 2) a processing application which reads and displays the XML files in a certain way.
 
 One example is “The Versioning Machine 5.0”
 

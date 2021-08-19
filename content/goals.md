@@ -12,4 +12,4 @@ After this course, you will be able to
 
 *2*{: .circle .circle-red} `Identify basic tags in order to annotate text sources `
 
-*3*{: .circle .circle-yellow} `Create a first xml file in the editor oXygen`
+*3*{: .circle .circle-yellow} `Create a first XML file in the editor oXygen`
