@@ -135,9 +135,9 @@ Plays by the rule book (depending which markup rule book is used (e.g. TEI, xhtm
 ### **Task #4**
 Find the lemons! (validity)
 
-!Picture 1 (content/images/lemonmelon1.png"Picture 1")
-!Picture 2 (content/images/lemonmelon2.png"Picture 2")
-!Picture 2 (content/images/lemonmelon3.png"Picture 3")
+![Picture 1] (content/images/lemonmelon1.png"Picture 1")
+![Picture 2] (content/images/lemonmelon2.png"Picture 2")
+![Picture 3] (content/images/lemonmelon3.png"Picture 3")
 
 
 
