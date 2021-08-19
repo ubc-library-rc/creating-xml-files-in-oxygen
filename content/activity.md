@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 'Resources'
-nav_order: 11
+title: 'Activity'
+nav_order: 12
 ---
 Copy past this xml into an oXygen file:
 ```xml
