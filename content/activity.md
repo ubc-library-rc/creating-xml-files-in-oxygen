@@ -3,7 +3,7 @@ layout: default
 title: 'Activity'
 nav_order: 12
 ---
-Copy past this xml into an oXygen file:
+Step 1: Copy past only this part of an xml into an oXygen file:
 ```xml
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -17,4 +17,18 @@ Copy past this xml into an oXygen file:
     <text>
         <body>
 
+```
+Step 2: This will solve our problem:
+```xml
+ <fileDesc>
+            <titleStmt>
+                <title>Bike Ride</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>not published</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>D. Leesing</p>
+            </sourceDesc>
+        </fileDesc>
 ```
