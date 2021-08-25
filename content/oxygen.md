@@ -61,7 +61,7 @@ Input
         </fileDesc>
 ```
 ### **Time to encode this sample in oXygen**
-[https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/(https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/)
+[https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/](https://chroniclingamerica.loc.gov/lccn/sn85058130/1895-04-04/ed-1/seq-2/)
 
 ### **Task #5**
   What tags do we identify, and what would the tags look like?
